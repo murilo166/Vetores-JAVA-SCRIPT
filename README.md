@@ -2,7 +2,7 @@
 Neste projeto proposto pelo meu professor. Soluciono os desafios propostos utilizando Vetores.
 
 
-## No primeiro programa uso arrays para reunir 20 numero informados pelo usuario.
+## No primeiro programa uso arrays para reunir 20 numeros informados pelo usuario.
 
 ## No segundo programa uso arrays para reunir 16 numeros informados pelo usarios maiores e menores que 50.
 
@@ -11,7 +11,7 @@ Neste projeto proposto pelo meu professor. Soluciono os desafios propostos utili
 
 ## um breve resumo da historinha
 
-#Drofo e Topper estão em uma aventura mágica. Faça um programa que contenha um inventário para cada um dos dois aventureiros - esse inventário será um array.
+Drofo e Topper estão em uma aventura mágica. Faça um programa que contenha um inventário para cada um dos dois aventureiros - esse inventário será um array.
 Drofo terá um anel da invisibilidade, dois pares de botas mágicas, uma poção do sono e duas poções da inocência em seu inventário e nessa ordem. 
 Torper terá uma capa da invisibilidade, uma pedra do despertar,  uma varinha das varinhas, uma poção da inocência e duas poções da mentira, poção anti-inteligência e nessa ordem. 
 
